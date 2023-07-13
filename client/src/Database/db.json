@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Surk",
+      "username": "surk25",
+      "email": "surk@gmail.com",
+      "phone": "7683214530",
+      "id": 1
+    },
+    {
+      "name": "Jack",
+      "username": "jack25",
+      "email": "jack@gmail.com",
+      "phone": "9346547896",
+      "id": 4
+    },
+    {
+      "name": "Platipus Parry",
+      "username": "parry25",
+      "email": "parry@gmail.com",
+      "phone": "9230965874",
+      "id": 5
+    },
+    {
+      "name": "Oggy",
+      "username": "oggy25",
+      "email": "oggy@gmail.com",
+      "phone": "7969874563",
+      "id": 6
+    }
+  ]
+}
